@@ -1,3 +1,19 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Anime   
-  Tracker</title></head><body><h1>Anime Tracker</h1><p>If the app did not open, tap the link below. If it is not installed, install it and log in to  
-  MyAnimeList again.</p><p><a href="">Open Anime Tracker</a></p></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>Anime Tracker</title>
+</head>
+<body>
+  <h1>Anime Tracker</h1>
+  <p>If the app did not open, tap the link below. If it is not installed, install it and log in to MyAnimeList again.</p>
+  <p><a id="open" href="">Open Anime Tracker</a></p>
+  <script>
+    document.getElementById("open").href =
+      "intent://" + location.host + location.pathname + location.search +
+      "#Intent;scheme=https;package=com.greenzean.animekmp;end";
+  </script>
+</body>
+</html>
