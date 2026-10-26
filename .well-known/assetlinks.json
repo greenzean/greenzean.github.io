@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.greenzean.animekmp",
+    "sha256_cert_fingerprints": [
+      "72:27:59:90:F6:45:1F:ED:97:8D:00:99:BB:1B:29:20:A2:B2:20:55:0E:92:04:F6:EE:55:10:EA:27:CE:AB:52"
+    ]
+  }
+}]
