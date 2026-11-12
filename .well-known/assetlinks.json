@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.greenzean.animekmp",
     "sha256_cert_fingerprints": [
-      "72:27:59:90:F6:45:1F:ED:97:8D:00:99:BB:1B:29:20:A2:B2:20:55:0E:92:04:F6:EE:55:10:EA:27:CE:AB:52"
+      "72:27:59:90:F6:45:1F:ED:97:8D:00:99:BB:1B:29:20:A2:B2:20:55:0E:92:04:F6:EE:55:10:EA:27:CE:AB:52",
+      "24:E3:2C:94:F2:C0:3E:8C:E7:1B:F9:32:12:C0:71:29:45:97:F8:14:EA:D4:34:6C:BC:CA:95:ED:91:EA:88:B6"
     ]
   }
 }]
